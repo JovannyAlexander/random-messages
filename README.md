@@ -15,7 +15,7 @@ funny-commit
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [funny-commit](https://github.com/JovannyAlexander/random-messages/)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-messages](https://github.com/JovannyAlexander/random-messages/)
 
 # License
 funny-commit is released under the [MIT License](https://opensource.org/licenses/MIT).
